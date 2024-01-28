@@ -9,6 +9,7 @@ const page = () => {
     <li>user's profile </li>
     <li>user able to modified profile info</li>
     <li>user able to view owned listing and edith</li>
+    <li>another one</li>
    </ul>
 
     </div>
